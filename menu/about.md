@@ -15,32 +15,33 @@ My research interests center on distributed systems, virtualization, operating s
 
 
 ## Publications
-
+---
 1. Lightweight Containers for the Edge. Misun Park, Ketan Bhardwaj, Ada Gavrilovska, *TECHCON 2020*, Sep. 2020 (In Press)
 2. Toward Lighter Containers for the Edge. Misun Park, Ketan Bhardwaj, Ada Gavrilovska, *USENIX Workshop on Hot Topics in Edge Computing (HotEdge'20)*, Jun. 2020
 
 
 
 ## Education
-* Georgia Institute of Technology (Ph.D., Computer Science) 2019–Present
-* Ewha Womans University (BEcon, Economics) 2008–2014
+---
+#### Georgia Institute of Technology (Ph.D., Computer Science) 2019–Present
+#### Ewha Womans University (BEcon, Economics) 2008–2014
 
 
 
 ## Work Experience
-
+---
 
 
 ## Skills
-
+---
 
 
 ## Personal Interests
-
+---
 
 
 ## References
-
+---
 
 ## Typography
 
