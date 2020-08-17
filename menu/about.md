@@ -48,7 +48,7 @@ My research interests center on distributed systems, virtualization, operating s
 
 Level|Items
 -----|-----
-**Advanced**|Docker*, C/C++(C++ 11, 14, ...), Java 8, OpenGL ES, ARM Architecture/ISA, Functional Programming Paradigm, Bash, Python
+**Advanced**|Docker, C/C++(C++ 11, 14, ...), Java 8, OpenGL ES, ARM Architecture/ISA, Functional Programming Paradigm, Bash, Python
 **Intermediate**|C#, Python, CUDA, Concurrency Programming, Statistics, JTAG debugging, JavaFX
 
 ## Personal Interests
