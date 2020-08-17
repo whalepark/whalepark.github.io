@@ -23,8 +23,8 @@ My research interests center on distributed systems, virtualization, operating s
 
 ## Education
 ---
-#### Georgia Institute of Technology (Ph.D., Computer Science) 2019–Present
-#### Ewha Womans University (BEcon, Economics) 2008–2014
+#### **Georgia Institute of Technology** (Ph.D., Computer Science) 2019–Present
+#### **Ewha Womans University** (BEcon, Economics) 2008–2014
 
 
 
