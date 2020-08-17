@@ -9,7 +9,7 @@ Misun Park is a 2nd year Ph.D. student of Computer Science at Georgia Institute 
 
 
 ## Research Interest
-
+---
 My research interests center on distributed systems, virtualization, operating systems, and computer architecture. Through my research, I would like to devise systems which are highly performant, secure, scalable, and fault-tolerant. Currently I am working on exploring the opportunities in the mobile edge infrastructure.
 
 
@@ -22,8 +22,8 @@ My research interests center on distributed systems, virtualization, operating s
 
 
 ## Education
-* Georgia Institute of Technology
-* Ewha Womans University
+* Georgia Institute of Technology (Ph.D., Computer Science) 2019–Present
+* Ewha Womans University (BEcon, Economics) 2008–2014
 
 
 
