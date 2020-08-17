@@ -55,8 +55,15 @@ Level|Items
 ---
 
 
-## References
+## Contact Information
 ---
+College of Computing
+Klaus Advanced Computing Building, Rm. 3337
+Georgia Institute of Technology
+266 Ferst Drive
+Atlanta, GA 30332-0765
+E-mail: kkkkk@kkkk.edu
+
 
 ## Typography
 
