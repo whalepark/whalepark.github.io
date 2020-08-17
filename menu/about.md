@@ -5,25 +5,37 @@ title: Hi, I'm Misun Park! 🙋‍♀️
 
 ![a pic of mine](../assets/img/mee.jpeg)
 Misun Park is a 2nd year Ph.D student of Computer Science at Georgia Institute of Technology. 
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research interests center on distributed systems, virtualization, operating systems, and computer architecture. Through my research, I would like to devise systems which are highly performant, secure, scalable, and fault-tolerant.
+
+---
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Lightweight Containers for the Edge. Misun Park, Ketan Bhardwaj, Ada Gavrilovska, *TECHCON 2020*, Sep. 2020 (In Press)
+2. Toward Lighter Containers for the Edge. Misun Park, Ketan Bhardwaj, Ada Gavrilovska, *USENIX Workshop on Hot Topics in Edge Computing (HotEdge'20)*, Jun. 2020
+
+---
 
 ## Education
 
-## Work Experiences
+---
+
+## Work Experience
+
+---
 
 ## Skills
 
-## Interest
+---
+
+## Personal Interests
+
+---
+
+## References
+
 
 ## Typography
 
