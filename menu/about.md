@@ -4,7 +4,9 @@ title: Hi, I'm Misun Park! 🙋‍♀️
 ---
 
 ![a pic of mine](../assets/img/mee.jpeg)
-Misun Park is a 2nd year Ph.D student of Computer Science at Georgia Institute of Technology. 
+Misun Park is a 2nd year Ph.D student of Computer Science at Georgia Institute of Technology. She has a strong fundamentals and enthusiastic insterests on low level system engineering and
+
+---
 ## Research Interest
 
 My research interests center on distributed systems, virtualization, operating systems, and computer architecture. Through my research, I would like to devise systems which are highly performant, secure, scalable, and fault-tolerant.
