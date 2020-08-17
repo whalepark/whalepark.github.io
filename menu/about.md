@@ -3,7 +3,7 @@ layout: page
 title: Hi, I'm Misun Park! 🙋‍♀️
 ---
 
-![a pic of mine](assets/img/mee.jpeg)
+![a pic of mine](../assets/img/mee.jpeg)
 Misun Park is a 2nd year Ph.D student of Computer Science at Georgia Institute of Technology. 
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
