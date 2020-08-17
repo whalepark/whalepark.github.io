@@ -57,4 +57,4 @@ Level|Items
 
 ## Contact Information
 ---
-E-mail: jjjj@jjjj.edu
+E-mail: misun at gatech dot edu
