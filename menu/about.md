@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About | Misun Park
+title: Hi, I'm Misun Park! 🙋‍♀️
+image: mee.jpg
 ---
 
-## About Me
-
-<img class="profile-picture" src="sherlock.jpg">
 
 Misun Park is a 2nd year Ph.D student of Computer Science at Georgia Institute of Technology. 
 
@@ -23,6 +21,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 ## Education
 
 ## Work Experiences
+
+## Skills
+
+## Interest
 
 ## Typography
 
