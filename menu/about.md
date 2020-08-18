@@ -23,23 +23,23 @@ My research interests center on distributed systems, virtualization, operating s
 
 ## Education
 ---
-- **Georgia Institute of Technology** Atlanta, GA
-  - *Ph.D. in Computer Science, 2019–Present*
+- **Georgia Institute of Technology** Atlanta, GA 
+*Ph.D. in Computer Science, 2019–Present*
 
-- **Ewha Womans University** Seoul, South Korea
-  - *BEcon(Economics), 2008–2014*
+- **Ewha Womans University** Seoul, South Korea 
+*BEcon(Economics), 2008–2014*
 
 
 
 ## Work Experience
 ---
-- **Samsung Electronics**  Gyeonggi-do, Korea
-  - *System Software Engineer, August 2015 - July 2019*
+- **Samsung Electronics**  Gyeonggi-do, Korea 
+*System Software Engineer, August 2015 - July 2019*
   - *Mobile GPU Debugger Development*
   - *USB Communication Chip Firmware Development*
 
-- **NAVER**  Gyeonggi-do, Korea
-  - *Contents Editor/UX Designer, January 2014 - December 2014*
+- **NAVER**  Gyeonggi-do, Korea 
+*Contents Editor/UX Designer, January 2014 - December 2014*
   - *Editor of 20's Contents*
   - *Contents Search Designer*
 
@@ -53,7 +53,7 @@ Level|Items
 
 ## Personal Interests
 ---
-
+Running, Travel around the World
 
 ## Contact Information
 ---
