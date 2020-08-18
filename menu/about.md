@@ -4,7 +4,7 @@ title: Hi, I'm Misun Park! 🙋‍♀️
 ---
 
 ![a pic of mine](../assets/img/mee.jpeg)
-*Yosemite National Park*
+->*in Yosemite National Park*<-
 
 Misun Park is a 2nd year Ph.D. student of Computer Science at Georgia Institute of Technology. She has a strong fundamental and enthusiastic insterests on low level system engineering and system software.
 
