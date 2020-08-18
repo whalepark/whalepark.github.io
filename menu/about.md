@@ -24,10 +24,10 @@ My research interests center on distributed systems, virtualization, operating s
 
 ## Education
 ---
-- **Georgia Institute of Technology** Atlanta, GA 
+- **Georgia Institute of Technology** Atlanta, GA  
 *Ph.D. in Computer Science, 2019–Present*
 
-- **Ewha Womans University** Seoul, South Korea 
+- **Ewha Womans University** Seoul, South Korea  
 *BEcon(Economics), 2008–2014*
 
 
