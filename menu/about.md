@@ -57,4 +57,10 @@ Level|Items
 
 ## Contact Information
 ---
+College of Computing  
+Klaus Advanced Computing Building, Rm. 3348  
+Georgia Institute of Technology  
+266 Ferst Drive  
+Atlanta, GA 30332-0765  
+
 E-mail: misun at gatech dot edu
