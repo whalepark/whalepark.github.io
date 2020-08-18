@@ -34,12 +34,12 @@ My research interests center on distributed systems, virtualization, operating s
 
 ## Work Experience
 ---
-- **Samsung Electronics**  Gyeonggi-do, Korea 
+- **Samsung Electronics**  Gyeonggi-do, Korea  
 *System Software Engineer, August 2015 - July 2019*
   - *Mobile GPU Debugger Development*
   - *USB Communication Chip Firmware Development*
 
-- **NAVER**  Gyeonggi-do, Korea 
+- **NAVER**  Gyeonggi-do, Korea  
 *Contents Editor/UX Designer, January 2014 - December 2014*
   - *Editor of 20's Contents*
   - *Contents Search Designer*
