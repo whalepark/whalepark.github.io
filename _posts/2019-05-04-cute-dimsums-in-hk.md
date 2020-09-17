@@ -4,7 +4,7 @@ title: "Cute Dimsums in Hong Kong"
 author: "WhalePark"
 categories: journal
 tags: [documentation,sample]
-image: hongkong/5.jpeg
+image: spools.jpg #hongkong/5.jpeg
 ---
 
 <!-- ![buildings](../assets/img/hongkong/1.jpeg)
