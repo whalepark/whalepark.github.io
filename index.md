@@ -1,7 +1,7 @@
-{% comment %} ---
+<!-- ---
 layout: home
 title: Home
---- {% endcomment %}
+---  -->
 ---
 layout: page
 title: Hi, I'm Misun Park! 🙋‍♀️
