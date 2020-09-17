@@ -2,8 +2,8 @@
 layout: post
 title: "Cute Dimsums in Hong Kong"
 author: "WhalePark"
-categories: journal
-tags: [documentation,sample]
+categories: travel
+tags: [travel,hongkong]
 image: hongkong/5.jpeg
 ---
 
@@ -17,9 +17,6 @@ image: hongkong/5.jpeg
 
 
 ![dimsums](../assets/img/hongkong/4.jpeg)
-
-
-![dimsums](../assets/img/hongkong/5.jpeg)
 
 
 ![dimsums](../assets/img/hongkong/6.jpeg)
