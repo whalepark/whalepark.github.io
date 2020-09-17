@@ -1,11 +1,12 @@
-<!-- ---
-layout: home
-title: Home
----  -->
 ---
 layout: page
 title: Hi, I'm Misun Park! 🙋‍♀️
 ---
+
+<!-- ---
+layout: home
+title: Home
+---  -->
 
 ![a pic of mine](assets/img/mee.jpeg)
 
