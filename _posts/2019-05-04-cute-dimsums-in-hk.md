@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: hongkong/5.jpeg
 ---
 
-![buildings](../assets/img/hongkong/1.jpeg)
+<!-- ![buildings](../assets/img/hongkong/1.jpeg)
 
 
 ![buildings](../assets/img/hongkong/2.jpeg)
@@ -46,7 +46,7 @@ image: hongkong/5.jpeg
 ![buildings](../assets/img/hongkong/13.jpeg)
 
 
-![buildings](../assets/img/hongkong/14.jpeg)
+![buildings](../assets/img/hongkong/14.jpeg) -->
 
 
 
