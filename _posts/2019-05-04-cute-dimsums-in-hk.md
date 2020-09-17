@@ -3,7 +3,7 @@ layout: post
 title: "Cute Dimsums in Hong Kong"
 author: "WhalePark"
 categories: journal
-tags: [travel,food]
+tags: [documentation,sample]
 image: hongkong/5.jpeg
 ---
 
