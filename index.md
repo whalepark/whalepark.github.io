@@ -45,8 +45,8 @@ My research interests center on distributed systems, virtualization, operating s
   - *USB Communication Chip Firmware Development*
 
 - **NAVER**  Gyeonggi-do, Korea  
-*Contents Editor/UX Designer, January 2014 - December 2014*
-  - *Editor of 20's Contents*
+*Content Editor/UX Designer, January 2014 - December 2014*
+  - *Editor of 20's Content*
   - *Contents Search Designer*
 
 ## Skills
