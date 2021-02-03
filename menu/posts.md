@@ -3,7 +3,7 @@ layout: default
 title: Posts
 ---
 
-{% for post in pagenator.posts %}
+{% for post in site.pagenator.posts %}
 <div class="posts">
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
